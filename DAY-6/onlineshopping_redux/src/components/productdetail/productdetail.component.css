@@ -1,0 +1,11 @@
+.image-container{
+    display: flex; /* Use flexbox to align items */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center; /* Center the image vertically */
+    height: 400px; /* Set the fixed height for the container */
+    background-color: #f0f0f0; /* Optional: Add a background color for visibility */
+}
+.image-container img{
+    max-width: 100%;
+    max-height: 100%;
+}
