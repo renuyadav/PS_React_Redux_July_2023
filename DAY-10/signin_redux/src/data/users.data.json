@@ -1,0 +1,23 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin",
+        "confirmPassword": "admin",
+        "signupCondition": false,
+        "rememberMe": false
+      },
+      {
+        "id": 2,
+        "username": "renu",
+        "email": "renu@gmail.com",
+        "password": "renu",
+        "confirmPassword": "renu",
+        "signupCondition": false,
+        "rememberMe": false
+      }
+
+    ]
+}        

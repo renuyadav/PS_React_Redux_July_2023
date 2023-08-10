@@ -1,0 +1,5 @@
+export const SagaActions = {
+  FETCH_USERS_ASYNC: "FETCH_USERS_ASYNC",
+  ADD_USER_ASYNC: "ADD_USER_ASYNC"
+
+};
